@@ -18,7 +18,7 @@
 			});
 		
     		$("body").queryLoader2({
-        		barColor: "#00c0b6",
+        		barColor: "#b06c8b",
         		percentage: true,
         		barHeight: 6,
         		completeAnimation: "grow",
