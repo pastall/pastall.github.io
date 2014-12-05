@@ -940,8 +940,7 @@ OverlayLoader.prototype.createOverlay = function () {
             			"<div class='row'>" +
 							"<div class='col-md-12 text-center'>" +
 								"<span id='loader_heart' class='glyphicon glyphicon-heart animated_heart'></span><br/>" +
-								"<span id='hisname'>GERRARD</span><br>" +
-								"<span id='hername'>+ DIANNE</span><br>" +
+								"<span id='hisname'>Phil + Jan</span><br>" +
 							"</div>" +
 						"</div>" +
 					"</div>";	
