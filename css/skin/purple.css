@@ -376,3 +376,31 @@ option{
 /* =======================*/
 
 
+/* =======================*/
+/* 13. CUSTOM             */
+/* =======================*/
+
+.hotel-infobox{
+    max-width: 235px;
+   /* min-height: 240px;*/
+}
+
+.hotel-infobox h4{
+    margin-bottom: 0px;
+    margin-top: 0;
+}
+
+.hotel-infobox p{
+    font-size: 15px;
+    margin-bottom: 5px;
+    line-height: 18px;
+}
+
+.hotel-infobox .glyphicon-star{
+    color: #ffb900;
+    font-size: 17px;
+}
+.hotel-infobox img{
+    width: 230px;
+    margin-bottom: 5px;
+}

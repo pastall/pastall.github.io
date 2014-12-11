@@ -431,29 +431,71 @@
    	jQuery(document).ready(function($) {
         $("#location_map").gMap({
              maptype: google.maps.MapTypeId.ROADMAP, 
-             zoom: 14, 
+             zoom: 15,
              markers: 
 			 	[
 			 		{
-                 		latitude: -33.898361, 
-                 		longitude: 151.175290, 
-                 		html: "<strong>Manalia Tower</strong>", 
-                		popup: true,               
+                 		latitude: 42.66137,
+                 		longitude: 18.06527,
+                 		html: "<div class=\"hotel-infobox\"><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><h4><a href=\"http://www.travelnow.com/templates/336616/hotels/236485/overview?lang=en&currency=GBP\" target=\"_blank\">Valamar Dubrovnik President Hotel</a></h4><p>Ulica Iva Dulčića 18, 20000, Dubrovnik, Croatia</p><a href=\"http://www.travelnow.com/templates/336616/hotels/236485/overview?lang=en&currency=GBP\" target=\"_blank\"><img src=\"http://images.travelnow.com/hotels/2000000/1380000/1371500/1371408/1371408_87_l.jpg\"></a><br><span class=\"glyphicon glyphicon-screenshot\"></span>13 mins Walk, 2 mins Car</div>",
+                		popup: false
 					},
-					{
-                		latitude: -33.905485, 
-                 		longitude: 151.169131, 
-                 		html: "<strong>Comfort Inn</strong>", 
-                 		popup: true,               
-                    } 
-                ], 
-             panControl: true, 
+                    {
+                        latitude: 42.66031,
+                        longitude: 18.06348,
+                        html: "<div class=\"hotel-infobox\"><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><h4><a href=\"http://www.travelnow.com/templates/336616/hotels/239881/overview?lang=en&currency=GBP\" target=\"_blank\">Tirena Hotel</a></h4><p>Ulica Iva Dulčića 36, 20000, Dubrovnik, Croatia</p><a href=\"http://www.travelnow.com/templates/336616/hotels/239881/overview?lang=en&currency=GBP\" target=\"_blank\"><img src=\"http://images.travelnow.com/hotels/2000000/1370000/1366700/1366607/1366607_90_l.jpg\"></a><br><span class=\"glyphicon glyphicon-screenshot\"></span>11 mins Walk, 2 mins Car</div>",
+                        popup: false
+                    },
+                    {
+                        latitude: 42.66175,
+                        longitude: 18.06071,
+                        html: "<div class=\"hotel-infobox\"><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><h4><a href=\"http://www.travelnow.com/templates/336616/hotels/232361/overview?lang=en&currency=GBP\" target=\"_blank\">Valamar Argosy Hotel</a></h4><p>Iva Dulčića 140, 20000, Dubrovnik, Croatia</p><a href=\"http://www.travelnow.com/templates/336616/hotels/232361/overview?lang=en&currency=GBP\" target=\"_blank\"><img src=\"http://images.travelnow.com/hotels/2000000/1270000/1265600/1265599/1265599_130_l.jpg\"></a><br><span class=\"glyphicon glyphicon-screenshot\"></span>11 mins Walk, 2 mins Car</div>",
+                        popup: false
+                    },
+                    {
+                        latitude: 42.66017,
+                        longitude: 18.06319,
+                        html: "<div class=\"hotel-infobox\"><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><h4><a href=\"http://www.travelnow.com/templates/336616/hotels/310556/overview?lang=en&currency=GBP\" target=\"_blank\">Valamar Lacroma</a></h4><p>Ulica Iva Dulčića 34, 20000, Dubrovnik, Croatia</p><a href=\"http://www.travelnow.com/templates/336616/hotels/310556/overview?lang=en&currency=GBP\" target=\"_blank\"><img src=\"http://images.travelnow.com/hotels/3000000/2470000/2466900/2466878/2466878_205_l.jpg\"></a><br><span class=\"glyphicon glyphicon-screenshot\"></span>10 mins Walk,2 mins Car</div>",
+                        popup: false
+                    },
+                    {
+                        latitude: 42.65990,
+                        longitude: 18.05841,
+                        html: "<div class=\"hotel-infobox\"><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><h4><a href=\"http://www.travelnow.com/templates/336616/hotels/245499/overview?lang=en&currency=GBP\" target=\"_blank\">Hotel Neptun</a></h4><p>Ulica kardinala Stepinca, 20000, Dubrovnik, Croatia</p><a href=\"http://www.travelnow.com/templates/336616/hotels/245499/overview?lang=en&currency=GBP\" target=\"_blank\"><img src=\"http://images.travelnow.com/hotels/2000000/1530000/1520500/1520440/1520440_97_l.jpg\"></a><br><span class=\"glyphicon glyphicon-screenshot\"></span>7 mins Walk, 2 mins Car</div>",
+                        popup: false
+                    },
+                    {
+                        latitude: 42.65955,
+                        longitude: 18.05904,
+                        html: "<div class=\"hotel-infobox\"><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><h4><a href=\"http://www.travelnow.com/templates/336616/hotels/371459/overview?lang=en&currency=GBP\" target=\"_blank\">Hotel Ariston</a></h4><p>Ulica kardinala Stepinca, 20000, Dubrovnik, Croatia</p><a href=\"http://www.travelnow.com/templates/336616/hotels/371459/overview?lang=en&currency=GBP\" target=\"_blank\"><img src=\"http://images.travelnow.com/hotels/5000000/4220000/4218800/4218774/4218774_53_l.jpg\"></a><br><span class=\"glyphicon glyphicon-screenshot\"></span>7 mins Walk, 2 mins Car</div>",
+                        popup: false
+                    },
+                    {
+                        latitude: 42.65939,
+                        longitude: 18.05807,
+                        html: "<div class=\"hotel-infobox\"><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><h4><a href=\"http://www.travelnow.com/templates/336616/hotels/409776/overview?lang=en&currency=GBP\" target=\"_blank\">Royal Princess Hotel</a></h4><p>Ulica kardinala Stepinca, 20000, Dubrovnik, Croatia</p><a href=\"http://www.travelnow.com/templates/336616/hotels/409776/overview?lang=en&currency=GBP\" target=\"_blank\"><img src=\"http://images.travelnow.com/hotels/6000000/5140000/5136000/5135913/5135913_46_l.jpg\"></a><br><span class=\"glyphicon glyphicon-screenshot\"></span>5 mins Walk, 1 min Car</div>",
+                        popup: false
+                    },
+                    {
+                        latitude: 42.66169,
+                        longitude: 18.05925,
+                        html: "<div class=\"hotel-infobox\"><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><h4><a href=\"http://www.travelnow.com/templates/336616/hotels/254349/overview?lang=en&currency=GBP\" target=\"_blank\">Valamar Dubrovnik President Hotel</a></h4><p>Ulica Iva Dulčića 142, 20000, Dubrovnik, Croatia</p><a href=\"http://www.travelnow.com/templates/336616/hotels/254349/overview?lang=en&currency=GBP\" target=\"_blank\"><img src=\"http://images.travelnow.com/hotels/2000000/1260000/1251800/1251785/1251785_126_l.jpg\"></a><br><span class=\"glyphicon glyphicon-screenshot\"></span>10 mins Walk, 2 min Car</div>",
+                        popup: false
+                    },
+                    {
+                        latitude: 42.65923,
+                        longitude: 18.05989,
+                        html: "<div class=\"hotel-infobox\"><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><span class=\"glyphicon glyphicon-star\"></span><h4><a href=\"http://www.travelnow.com/templates/336616/hotels/371458/overview?lang=en&currency=GBP\" target=\"_blank\">Royal Palm Hotel</a></h4><p>Kardinala Stepinca 31 c, Dubrovnik, Croatia</p><a href=\"http://www.travelnow.com/templates/336616/hotels/371458/overview?lang=en&currency=GBP\" target=\"_blank\"><img src=\"http://images.travelnow.com/hotels/5000000/4220000/4218800/4218763/4218763_102_l.jpg\"></a><br><span class=\"glyphicon glyphicon-screenshot\"></span>6 mins Walk, 1 min Car</div>",
+                        popup: false
+                    }
+                ],
+             panControl: true,
              zoomControl: true, 
              mapTypeControl: true, 
              scaleControl: true, 
-             streetViewControl: true, 
+             streetViewControl: false,
              scrollwheel: false, 
-             styles: [ { "stylers": [ { "hue": "#00c0b6" }, { "gamma": 1 }, { "saturation": -50 } ] } ], 
+             styles: [ {'featureType': "poi.business",'elementType': "labels",'stylers': [ { 'visibility': "off" } ] }, { "stylers": [ { "hue": "#00c0b6" }, { "gamma": 1 }, { "saturation": -50 } ] } ],
              onComplete: function() {
                  // Resize and re-center the map on window resize event
                  var gmap = $("#location_map").data('gmap').gmap;
