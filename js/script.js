@@ -593,7 +593,7 @@
                             "<p>Kardinala Stepinca 33, Dubrovnik, Croatia</p>" +
                             "<a href=\"http://www.travelnow.com/templates/336616/hotels/313067/overview?lang=en&currency=GBP\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/3000000/2600000/2595500/2595415/2595415_3_l.jpg\"></a>",
-                        popup: false
+                        popup: true
                     },
                     {
                         latitude: 42.66194,
