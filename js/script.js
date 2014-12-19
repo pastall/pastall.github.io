@@ -221,7 +221,7 @@
         	src: 'http://placehold.it/600x399'
       	},
      	{
-        	src: 'http://placehold.it/399x600',
+        	src: 'http://placehold.it/200x200',
       	},
       	{
         	src: 'http://placehold.it/600x400',
