@@ -181,7 +181,7 @@
 	// Popup
 	//=================================================================================
 	$('.popup').magnificPopup({
-  		type: 'ajax',
+  		type: 'image',
 		ajax: {
 			settings: {cache:false} 
 			// Ajax settings object that will extend default one - http://api.jquery.com/jQuery.ajax/#jQuery-ajax-settings
