@@ -162,6 +162,7 @@ p a:hover{
 /* ----------------------- */
 #slide_text{
 	color:#ffffff;
+    text-shadow: 1px 1px 1px rgba(104, 39, 211, 0.8);
 }
 
 #slide_text3{
