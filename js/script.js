@@ -18,7 +18,7 @@
 			});
 		
     		$("body").queryLoader2({
-        		barColor: "#b06c8b",
+        		barColor: "#5557a4",
         		percentage: true,
         		barHeight: 6,
         		completeAnimation: "grow",
@@ -144,7 +144,7 @@
 	// NiceScroll
 	//==================================================================================
 	$(document).ready(function() {
-		if (IEVersion() != 11) 
+		if (IEVersion() != 11)
 		{
 			$('html').niceScroll({
     			cursorcolor: "#1A212C",
@@ -160,7 +160,7 @@
     			horizrailenabled: false
 			});
 		}
-		
+
 	});
 	
 	// Photo Divider - Scroll Background Attachment - IE11 

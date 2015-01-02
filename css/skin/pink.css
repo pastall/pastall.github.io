@@ -44,7 +44,7 @@
 /* 00. PRELOADER		  */
 /*========================*/
 #loader_heart{
-	color:#d56363;
+	color:#7355a4;
 }
 
 #hisname{
@@ -52,7 +52,7 @@
 }
 
 #hername{
-	color:#d56363;
+	color:#7355a4;
 }
 	
 /*========================*/
@@ -78,11 +78,11 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
 }
 
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover{
-	color:#d56363;
+	color:#7355a4;
 }
 
 p a{
-	color:#d56363;
+	color:#7355a4;
 }
 
 p a:hover{
@@ -97,7 +97,7 @@ p a:hover{
 }
 
 .intro_heart{
-	color:#d56363;
+	color:#7355a4;
 }
 
 
@@ -110,14 +110,14 @@ p a:hover{
 /* 01-4 Button */
 /* ----------------------- */
 .btn-default{
-	background-color:#d56363 !important;
+	background-color:#7355a4 !important;
 	color:#fff !important;
-	border-color:#c44c4c !important;
+	border-color:#5557a4 !important;
 }
 
 .btn-default:hover{
-	background-color:#000000 !important;
-	border-color:#000000 !important;
+	background-color:#5557a4 !important;
+	border-color:#5557a4 !important;
 }
 
 /* 01-5 Photo Item */
@@ -154,7 +154,7 @@ p a:hover{
 /* 02-1 Logo */
 /* ----------------------- */
 #logo {
-	background-color:#000000;
+	background-color:#220c45;
 	color:#ffffff;
 }
 
@@ -170,7 +170,7 @@ p a:hover{
 }
 
 .heart_row {
-	color:#d56363;
+	color:#7355a4;
 }
 
 /* 02-3 Menu */
@@ -181,7 +181,7 @@ p a:hover{
 /* ----------------------- */
 /* navbar */
 .navbar-default {
-    background-color: #d56363;
+    background-color: #7355a4;
     border-color: #E7E7E7;
 }
 /* title */
@@ -194,21 +194,21 @@ p a:hover{
 }
 /* link */
 .navbar-default .navbar-nav  {
-	background-color: #d56363;
+	background-color: #7355a4;
 }
 .navbar-default .navbar-nav > li > a {
     color: #ffffff;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #000	;
+    color: #220c45	;
 }
 
 .navbar-default .navbar-nav > .active > a, 
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus {
-    color: #000;
-    background-color: #d56363;
+    color: #220c45;
+    background-color: #7355a4;
 }
 .navbar-default .navbar-nav > .open > a, 
 .navbar-default .navbar-nav > .open > a:hover, 
@@ -238,8 +238,8 @@ p a:hover{
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #000;
-	border-color: #000;
+    background-color: #5557a4;
+	border-color: #5557a4;
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #ffffff;
@@ -286,7 +286,7 @@ p a:hover{
 }
 
 .box_icon{
-	background-color:#d56363; 
+	background-color:#7355a4; 
 	color:#ffffff; 
 }
 
@@ -330,7 +330,7 @@ p a:hover{
 }
 
 .blog_info a{
-	color:#d56363;
+	color:#7355a4;
 }
 
 .blog_info a:hover{
@@ -354,14 +354,15 @@ option{
 }
 
 #result .bg-success{
-	background-color:#d56363
+	background-color:#7355a4
 }
 
 /*========================*/
 /* 10. FOOTER			  */
 /*========================*/
 #footer_text{
-	background-color:#000; 
+	background-color:#7355a4;
+    color: #FFF
 }
 
 
