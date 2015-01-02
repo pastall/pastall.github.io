@@ -1124,3 +1124,24 @@ h3{
 	font-size:24px;
 	margin: 0 5px 0 10px
 }
+
+.contact_wrapper{
+    background-image: url('../images/contact/border-bg.png');
+    background-color: #f0eceb;
+    background-repeat: repeat-y;
+    background-position: left center;
+    border: 1px solid #aea097;
+    padding-left: 30px;
+    /*padding-top: 60px;*/
+}
+.dashed{
+    border-right: 1px dashed #a69d98;
+}
+
+@media (max-width:1190px) {
+
+    .dashed{
+        border-right: 0px none;
+    }
+
+}

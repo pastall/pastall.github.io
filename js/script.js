@@ -143,25 +143,25 @@
 	
 	// NiceScroll
 	//==================================================================================
-	$(document).ready(function() {
-		if (IEVersion() != 11)
-		{
-			$('html').niceScroll({
-    			cursorcolor: "#1A212C",
-    			zindex: '99999',
-    			cursorminheight: 60,
-    			scrollspeed: 80,
-    			cursorwidth: 7,
-    			autohidemode: true,
-    			background: "#aaa",
-    			cursorborder: 'none',
-    			cursoropacitymax: .7,
-    			cursorborderradius: 0,
-    			horizrailenabled: false
-			});
-		}
-
-	});
+    //$(document).ready(function() {
+    //	if (IEVersion() != 11)
+    //	{
+    //		$('html').niceScroll({
+    //			cursorcolor: "#1A212C",
+    //			zindex: '99999',
+    //			cursorminheight: 60,
+    //			scrollspeed: 80,
+    //			cursorwidth: 7,
+    //			autohidemode: true,
+    //			background: "#aaa",
+    //			cursorborder: 'none',
+    //			cursoropacitymax: .7,
+    //			cursorborderradius: 0,
+    //			horizrailenabled: false
+    //		});
+    //	}
+    //
+    //});
 	
 	// Photo Divider - Scroll Background Attachment - IE11 
 	//==================================================================================
