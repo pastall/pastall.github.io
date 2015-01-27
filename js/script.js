@@ -441,11 +441,11 @@
                             "<span class=\"glyphicon glyphicon-star\">" +
                             "</span><span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/236485/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/236485/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Valamar Dubrovnik President Hotel" +
                             "</a></h4>" +
                             "<p>Ulica Iva Dulčića 18, 20000, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/236485/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/236485/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1380000/1371500/1371408/1371408_87_l.jpg\"></a>",
                 		popup: false
 					},
@@ -456,11 +456,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/239881/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/239881/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Tirena Hotel" +
                             "</a></h4>" +
                             "<p>Ulica Iva Dulčića 36, 20000, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/239881/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/239881/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1370000/1366700/1366607/1366607_90_l.jpg\"></a>",
                         popup: false
                     },
@@ -472,11 +472,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/232361/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/232361/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Valamar Argosy Hotel" +
                             "</a></h4>" +
                             "<p>Iva Dulčića 140, 20000, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/232361/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/232361/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1270000/1265600/1265599/1265599_130_l.jpg\"></a>",
                         popup: false
                     },
@@ -487,11 +487,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/310556/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/310556/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Valamar Lacroma" +
                             "</a></h4>" +
                             "<p>Ulica Iva Dulčića 34, 20000, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/310556/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/310556/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/3000000/2470000/2466900/2466878/2466878_205_l.jpg\"></a>",
                         popup: false
                     },
@@ -502,11 +502,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/245499/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/245499/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel Neptun" +
                             "</a></h4>" +
                             "<p>Ulica kardinala Stepinca, 20000, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/245499/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/245499/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1530000/1520500/1520440/1520440_97_l.jpg\"></a>",
                         popup: false
                     },
@@ -519,11 +519,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/371459/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/371459/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel Ariston" +
                             "</a></h4>" +
                             "<p>Ulica kardinala Stepinca, 20000, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/371459/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/371459/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/5000000/4220000/4218800/4218774/4218774_53_l.jpg\"></a>",
                         popup: false
                     },
@@ -536,11 +536,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/409776/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/409776/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Royal Princess Hotel" +
                             "</a></h4>" +
                             "<p>Ulica kardinala Stepinca, 20000, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/409776/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/409776/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/6000000/5140000/5136000/5135913/5135913_46_l.jpg\"></a>",
                         popup: false
                     },
@@ -553,11 +553,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/254349/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/254349/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Valamar Dubrovnik President Hotel" +
                             "</a></h4>" +
                             "<p>Ulica Iva Dulčića 142, 20000, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/254349/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/254349/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1260000/1251800/1251785/1251785_126_l.jpg\"></a>",
                         popup: false
                     },
@@ -570,11 +570,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/371458/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/371458/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Royal Palm Hotel" +
                             "</a></h4>" +
                             "<p>Kardinala Stepinca 31 c, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/371458/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/371458/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/5000000/4220000/4218800/4218763/4218763_102_l.jpg\"></a>",
                         popup: false
                     },
@@ -587,11 +587,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/313067/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/313067/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel More" +
                             "</a></h4>" +
                             "<p>Kardinala Stepinca 33, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/313067/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/313067/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/3000000/2600000/2595500/2595415/2595415_3_l.jpg\"></a>",
                         popup: true
                     },
@@ -603,11 +603,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/274481/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/274481/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Pervanovo Apartments" +
                             "</a></h4>" +
                             "<p>Vatroslava Lisinskog 43 - 59, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/274481/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/274481/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/3000000/2250000/2246500/2246496/2246496_7_l.jpg\"></a>",
                         popup: false
                     },
@@ -618,11 +618,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/437557/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/437557/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Apartments Mandy" +
                             "</a></h4>" +
                             "<p>Petra Svacica 10, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/437557/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/437557/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/7000000/6380000/6377400/6377322/6377322_7_l.jpg\"></a>",
                         popup: false
                     },
@@ -633,11 +633,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/395184/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/395184/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Apartments Zore Glavinic" +
                             "</a></h4>" +
                             "<p>Petra Svacica 10, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/395184/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/395184/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/3000000/2250000/2246500/2246496/2246496_7_l.jpg\"></a>",
                         popup: false
                     },
@@ -648,11 +648,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/258768/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/258768/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel Dubrovnik" +
                             "</a></h4>" +
                             "<p>Šetalište Kralja Zvonimira 16, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/258768/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/258768/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1750000/1748200/1748198/1748198_27_l.jpg\"></a>",
                         popup: false
                     },
@@ -664,11 +664,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/222616/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/222616/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel Kompas" +
                             "</a></h4>" +
                             "<p>Setaliste Kralja Zvonimira 56, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/222616/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/222616/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/3000000/2250000/2246500/2246496/2246496_7_l.jpg\"></a>",
                         popup: false
                     },
@@ -679,11 +679,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/255642/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/255642/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel Perla" +
                             "</a></h4>" +
                             "<p>Setaliste Kralja Zvonimira 20, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/255642/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/255642/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1680000/1680000/1680000/1680000_23_l.jpg\"></a>",
                         popup: false
                     },
@@ -695,11 +695,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/245303/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/245303/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Grand Hotel Park" +
                             "</a></h4>" +
                             "<p>Setaliste Kralja Zvonimira 39, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/245303/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/245303/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1530000/1526000/1525991/1525991_156_l.jpg\"></a>",
                         popup: false
                     },
@@ -710,11 +710,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/268189/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/268189/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel Aquarius" +
                             "</a></h4>" +
                             "<p>Mata Vodopica 4a, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/268189/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/268189/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/3000000/2040000/2031300/2031205/2031205_20_l.jpg\"></a>",
                         popup: false
                     },
@@ -725,11 +725,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/243420/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/243420/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel Komodor" +
                             "</a></h4>" +
                             "<p>Marsarykov put 5, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/243420/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/243420/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1510000/1504400/1504327/1504327_9_l.jpg\"></a>",
                         popup: false
                     },
@@ -739,11 +739,11 @@
                         html: "<div class=\"hotel-infobox\">" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/235641/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/235641/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel Adriatic" +
                             "</a></h4>" +
                             "<p>Masarykov put 9, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/235641/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/235641/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1360000/1359100/1359043/1359043_56_l.jpg\"></a>",
                         popup: false
                     },
@@ -755,11 +755,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/245546/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/245546/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel Uvala" +
                             "</a></h4>" +
                             "<p>Marsarykov put 6, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/245546/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/245546/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1540000/1536000/1535940/1535940_14_l.jpg\"></a>",
                         popup: false
                     },
@@ -770,11 +770,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/250777/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/250777/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel Vis" +
                             "</a></h4>" +
                             "<p>Marsarykov put 4, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/250777/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/250777/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1600000/1600000/1599992/1599992_31_l.jpg\"></a>",
                         popup: false
                     },
@@ -785,11 +785,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/235747/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/235747/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Hotel Splendid" +
                             "</a></h4>" +
                             "<p>Masarykov put 10, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/235747/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/235747/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/2000000/1360000/1359100/1359044/1359044_41_l.jpg\"></a>",
                         popup: false
                     },
@@ -801,11 +801,11 @@
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
-                            "<h4><a href=\"http://www.travelnow.com/templates/336616/hotels/435432/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/435432/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "Villa Franica" +
                             "</a></h4>" +
                             "<p>Ivana Zajca 41, Dubrovnik, Croatia</p>" +
-                            "<a href=\"http://www.travelnow.com/templates/336616/hotels/435432/overview?lang=en&currency=GBP\" target=\"_blank\">" +
+                            "<a href=\"http://www.travelnow.com/templates/475672/hotels/435432/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
                             "<img src=\"http://images.travelnow.com/hotels/7000000/6250000/6249800/6249721/6249721_34_l.jpg\"></a>",
                         popup: false
                     }
