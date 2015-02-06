@@ -442,7 +442,7 @@
                             "</span><span class=\"glyphicon glyphicon-star\"></span>" +
                             "<span class=\"glyphicon glyphicon-star\"></span>" +
                             "<h4><a href=\"http://www.travelnow.com/templates/475672/hotels/236485/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
-                            "Valamar Dubrovnik President Hotel" +
+                            "Valamar Club Dubrovnik" +
                             "</a></h4>" +
                             "<p>Ulica Iva Dulčića 18, 20000, Dubrovnik, Croatia</p>" +
                             "<a href=\"http://www.travelnow.com/templates/475672/hotels/236485/overview?lang=en&currency=GBP&secureUrlFromDataBridge=https://www.travelnow.com&requestVersion=V2&destination=Dubrovnik,+Southern+Dalmatia,+Croatia&targetId=AREA-02132dc3-70cf-487b-8cf0-2bacf5e6f9b2|cities&checkin=07/05/2015&standardCheckin=07/05/2015&checkout=08/02/2015&standardCheckout=08/02/2015&roomsCount=1&rooms[0].adultsCount=2&rooms[0].childrenCount=0&flightItineraryCode=12345&apiKey=pwnhnmmcqtnpwd78prvedms2&token=ab65f4ae5b848607316f4da5f76eb51da6901adae3b35e7fa8e328f3009d487b\" target=\"_blank\">" +
