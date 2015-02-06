@@ -323,13 +323,13 @@ a:focus{
 			transition: transform 0.5s;*/
 }
 
-.photo_item_overlay {
+.photo_item_overlay {/*
 	position: absolute; 
 	top: 0; 
 	right: 0; 
 	bottom: 0;
 	left: 0; 
-	/*background-color: rgba(0, 192, 182, 0.5);
+	background-color: rgba(0, 192, 182, 0.5);
 	opacity: 0; 
 	-webkit-transform: scale(0); 
 		-ms-transform: scale(0); 
