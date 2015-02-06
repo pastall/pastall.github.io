@@ -38,8 +38,6 @@
 10. FOOTER
 11. MEDIA SCREEN
 12. STYLE SWITCHER
-
-
 /*========================*/
 /* 00. PRELOADER		  */
 /*========================*/
@@ -316,13 +314,13 @@ a:focus{
 	overflow:hidden;
 }
 
-.photo_item_preview > a img {
+.photo_item_preview /*> a img {
 	display: block;
 	width: 100%;
 	-webkit-transition: -webkit-transform 0.5s; 
 		-ms-transition: -ms-transform 0.5s;
 		 -o-transition: -o-transform 0.5s;
-			transition: transform 0.5s;
+			transition: transform 0.5s;*/
 }
 
 .photo_item_overlay {
@@ -331,7 +329,7 @@ a:focus{
 	right: 0; 
 	bottom: 0;
 	left: 0; 
-	background-color: rgba(0, 192, 182, 0.5);
+	/*background-color: rgba(0, 192, 182, 0.5);
 	opacity: 0; 
 	-webkit-transform: scale(0); 
 		-ms-transform: scale(0); 
@@ -340,29 +338,29 @@ a:focus{
 	-webkit-transition: -webkit-transform 0.5s; 
 		-ms-transition: -ms-transform 0.5s;
 		 -o-transition: -o-transform 0.5s;
-			transition: transform 0.5s;
+			transition: transform 0.5s;*/
 }
 
-.photo_item_overlay  a {
+.photo_item_overlay /*a {
 	position: absolute; 
 	top: 50%;
 	left:50%;
 	margin-top:-30px;
-	margin-left:-30px;
+	margin-left:-30px;*/
 }
 	
-.photo_item:hover .photo_item_overlay {
+.photo_item:hover /*.photo_item_overlay {
 	opacity: 1; 
 	-webkit-transform: scale(1); 
 		-ms-transform: scale(1);
 		 -o-transform: scale(1);  
-			transform: scale(1);
+			transform: scale(1); */
 }
-.photo_item:hover .photo_item_preview > a img { 
+.photo_item:hover /*.photo_item_preview > a img { 
 	-webkit-transform: scale(1.1); 
 		-ms-transform: scale(1.1);
 		 -o-transform: scale(1.1);  
-			transform: scale(1.1); 
+			transform: scale(1.1); */
 }
 
 .icon_background{
