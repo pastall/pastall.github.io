@@ -341,12 +341,12 @@ a:focus{
 			transition: transform 0.5s;*/
 }
 
-.photo_item_overlay a {
+.photo_item_overlay a {/*
 	position: absolute; 
 	top: 50%;
 	left:50%;
 	margin-top:-30px;
-	margin-left:-30px;
+	margin-left:-30px;8/
 }
 	
 .photo_item:hover .photo_item_overlay {/*
@@ -363,7 +363,7 @@ a:focus{
 			transform: scale(1.1); */
 }
 
-.icon_background{
+.icon_background{/*
 	display:block; 
 	background: rgba(0, 0, 0, 0); 
 	height:60px; 
@@ -382,7 +382,7 @@ a:focus{
 	-moz-transition: 0.3s all ease;
 	-o-transition: 0.3s all ease;
 	-ms-transition: 0.3s all ease;
-	transition: 0.3s all ease;	
+	transition: 0.3s all ease;*/	
 }
 
 .icon_button{/*
