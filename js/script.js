@@ -432,7 +432,7 @@
         $("#location_map").gMap({
              maptype: google.maps.MapTypeId.ROADMAP, 
              zoom: 15,
-             markers: 
+             markers:
 			 	[
 			 		{
                  		latitude: 42.66137,
