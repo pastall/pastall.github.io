@@ -293,6 +293,11 @@ a:focus{
 	background-image:url(../images/divider_09.jpg);
 }
 
+#photo_divider10{
+	background-image:url(../images/divider_10.jpg);
+	background-position:bottom center;
+}
+
 /* 01-4 Button */
 /* ----------------------- */
 .btn-default{
